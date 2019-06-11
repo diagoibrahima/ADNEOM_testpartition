@@ -4,9 +4,10 @@
 #TEST JAVA application de partitionnement
 ------------------------------------------------------------------------
 
-
 java version 1.8.0_171
+
 maven version 3.5.0 
+
 jUnit version 4.12
 
 
@@ -19,8 +20,6 @@ Elle permet de gagner en performances surtout avec l'utilisation de gros volumes
 
 #Fichiers et repertoires du projet maven
 ----------------------------------------
-
-
 +application
 	+src
 		main.java.com.adneom.application.Main
