@@ -20,17 +20,23 @@ Elle permet de gagner en performances surtout avec l'utilisation de gros volumes
 
 #Fichiers et repertoires du projet maven
 ----------------------------------------
+
 +application
+
 	+src
 		main.java.com.adneom.application.Main
-	pom.xml	
+	pom.xml
+	
 +partitionlibs
+
 	+src
 		main.java.com.adneom.libs.SubList
 		test.java.com.adneom.libs.SubListTest
 	pom.xml
 pom.xml
+
 README.txt
+
 
 Explication 
 ---------------
