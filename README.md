@@ -19,8 +19,10 @@ Elle permet de gagner en performances surtout avec l'utilisation de gros volumes
 ----------------------------------------
 
 +application
+
 	+src
-		main.java.com.adneom.application.Main
+		
+			main.java.com.adneom.application.Main
 	pom.xml
 	
 +partitionlibs
