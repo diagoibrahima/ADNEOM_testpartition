@@ -47,11 +47,16 @@ La solution est composée de deux modules (partitionlibs et application)
 --------------------------
 
 Pour exécuter le programme et les tests unitaires, il faut :
+
 	- Extraire le fichier ADNEOM_testpartition_DIAGO.zip dans un répertoire
+	
 	- Ouvrir l'invite de commande et se positionner sur le repertoire testpartition
+	
 	- Exécuter la commande "mvn clean install" : Cette etape permet de compiler le projet et de faire les tests unitaires dont les 		  resultats seront visibles sur la console
+	
 	- Exécuter la commande "cd application/taget" pour se positionner dans le repertoire contenant le jar 
 	  application-1.0-SNAPSHOT.jar
+	  
 	- Exécuter la commande "java -jar application-1.0-SNAPSHOT.jar" pour demarrer la methode main afin de voir les exemples 
 	
 	
